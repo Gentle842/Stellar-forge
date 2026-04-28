@@ -31,6 +31,7 @@ config/dev/*-secret.yaml
 .claude/
 .agents/
 .cursor/
+temp_auto_push.bat
 .gemini/
 .windsurf/
 task_plan.md
@@ -41,7 +42,6 @@ requirements.md
 CI_CD_REVIEW.md
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -65,3 +65,4 @@ rendered-output.yaml
 # Temporary Test Files
 test_*.rs
 starfield.html
+branch_structure.json
