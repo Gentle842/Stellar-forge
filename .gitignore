@@ -55,7 +55,6 @@ requirements.md
 CI_CD_REVIEW.md
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -90,3 +89,5 @@ rendered-output.yaml
 test_*.rs
 starfield.html
 
+config.bat
+node_modules
